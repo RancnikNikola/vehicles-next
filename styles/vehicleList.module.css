@@ -1,0 +1,45 @@
+.links {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+}
+
+.links a {
+    margin: 5px 0;
+}
+
+.title {
+    margin: 5px 0;
+}
+
+.vehicleOrder {
+    margin: 10px 0;
+}
+
+.checkbox {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.checkboxLabel {
+    text-transform: capitalize;
+}
+
+.checkboxInput {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.vehicles {
+    display: flex;
+    flex-direction: column;
+}
+
+.vehicleLinks {
+    display: flex;
+    justify-content: space-between;
+}
+
+.modelName {
+    padding: 5px;
+}
